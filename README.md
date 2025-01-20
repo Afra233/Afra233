@@ -11,13 +11,8 @@ My interests lie in being able to conduct an in-depth analysis of data, recognis
 
 
 
-* 💻 I am currently completing an MSc in Business Analytics at the University of Ghana
-* 👀 I am looking to leverage my solid skills in Analytics to bring value to your organisation in Data Science or Analyst roles.
 * 📧 How to reach me:
   naaowusu.addo@gmail.com
-* 👩 Pronouns: She/her
-* 🌸 Random Fun Fact: I pick the tomatoes out of my burgers (I absolutely dislike the sight of tomatoes in my food)
-* ⚒️ This page is still under construction. I will be adding my personal projects soon!
 
 
 ### My Skills
