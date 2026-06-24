@@ -1,27 +1,99 @@
-## Hi I'm Afra <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+# Hi there, I'm Nana Akua Afra Owusu-Addo 👋
 
-### I'm a Data Analyst / Data Scientist 
+### Geospatial Data Analyst | Earth Observation · Technical Writing | MSc Business Analytics
+
+I am passionate about using data to generate insights that support better decision-making and real-world impact. My work focuses on **geospatial data analysis**, **earth observation**, **business analytics**, and **technical writing**.
+
+I enjoy working with data, exploring spatial patterns, building analytical solutions, and communicating technical concepts in a clear and accessible way.
+
+---
+
+## 💡 About Me
+
+- 🌍 Geospatial Data Analyst with an interest in Earth Observation and spatial analytics
+- 🎓 MSc Business Analytics background
+- 📊 Interested in data analytics, business intelligence, and data-driven decision-making
+- ✍️ Technical writer focused on making complex data concepts easier to understand
+- 📍 Based in Accra, Ghana
+- 🚀 Always learning, building, and improving
+
+---
+
+## 🛠️ Tools & Technologies
+
+- Python
+- SQL
+- Excel
+- Power BI
+- Google Earth Engine
+- Jupyter Notebook
+- Git & GitHub
+
+---
+
+## 🔎 Areas of Interest
+
+- Geospatial Data Analysis
+- Earth Observation
+- Data Analytics
+- Data Visualisation
+- Data Cleaning & Transformation
+- Business Intelligence Dashboards
+- Technical Documentation
+- Data Storytelling
+
+---
+
+## 📌 What I Work On
+
+### 🌍 Geospatial & Earth Observation Projects
+
+Analysing satellite, spatial, and environmental data to uncover patterns and support decision-making.
+
+### 📊 Business Analytics Projects
+
+Using data to understand trends, performance, and opportunities through dashboards and analytical reports.
+
+### ✍️ Technical Writing
+
+Creating clear documentation, tutorials, and articles that explain technical and data-related concepts.
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Afra233&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Afra233&layout=compact&theme=default)
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced geospatial analytics
+- Cloud-based data tools
+- Data storytelling and visualization
+
+---
+
+## 🤝 Let's Connect
+
+- LinkedIn: [Nana Akua Afra Owusu-Addo](https://www.linkedin.com/in/nana-akua-afra-owusu-addo)
+- GitHub: [Afra233](https://github.com/Afra233)
+- Medium: [Nana Akua Afra Owusu-Addo](https://medium.com/@naaowusu.addo) 
+- Email: [Nana Akua Afra Owusu-Addo](naaowusu.addo@gmail.com)  
+
+---
+
+## ✨ Motto
+
+> Turning geospatial data into insight, and insight into impact.
 
 
-My interests lie in being able to conduct an in-depth analysis of data, recognise relevant patterns and drawing conclusions and making recommendations that solve business problems and communicate complex ideas to non-technical stakeholders. I have knowledge in Python Programming, Machine Learning, Data Visualisation, Data Science and Analytics. 
-
-📫 Connect with me:
-
-[![Linkedin Badge](https://img.shields.io/badge/-Afra-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/kweyakieblebo/](https://www.linkedin.com/in/nana-akua-afra-owusu-addo-a78734190)) 
 
 
 
-* 📧 How to reach me:
-  naaowusu.addo@gmail.com
 
-
-### My Skills
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](#) 
-[![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-](#)
-[![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-](#)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
