@@ -60,14 +60,6 @@ Creating clear documentation, tutorials, and articles that explain technical and
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Afra233&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Afra233&layout=compact&theme=default)
-
----
-
 ## 🌱 Currently Learning
 
 - Advanced geospatial analytics
